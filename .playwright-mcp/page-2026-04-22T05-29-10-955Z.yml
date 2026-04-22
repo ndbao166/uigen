@@ -1,0 +1,192 @@
+- generic [ref=e2]:
+  - banner [ref=e4]:
+    - generic [ref=e6]:
+      - generic [ref=e7]:
+        - button "Guide" [active] [ref=e9] [cursor=pointer]
+        - generic [ref=e11]:
+          - link "YouTube Home" [ref=e12] [cursor=pointer]:
+            - /url: /
+          - generic [ref=e16]: VN
+        - button "Skip navigation" [ref=e20] [cursor=pointer]:
+          - generic [ref=e21]: Skip navigation
+      - generic [ref=e25]:
+        - search [ref=e26]:
+          - generic [ref=e27]:
+            - generic [ref=e28]:
+              - combobox "Search" [expanded] [ref=e30]: never give up
+              - button "Clear search query" [ref=e32] [cursor=pointer]
+            - button "Search" [ref=e37] [cursor=pointer]
+        - generic [ref=e40]:
+          - button "Search with your voice" [ref=e42] [cursor=pointer]
+          - tooltip "tooltip"
+  - navigation [ref=e53]
+  - main [ref=e55]:
+    - generic [ref=e56]:
+      - generic [ref=e58]:
+        - tablist [ref=e63]:
+          - tab "All" [selected] [ref=e67] [cursor=pointer]:
+            - generic [ref=e69]: All
+          - tab "Shorts" [ref=e76] [cursor=pointer]:
+            - generic [ref=e78]: Shorts
+          - tab "Unwatched" [ref=e85] [cursor=pointer]:
+            - generic [ref=e87]: Unwatched
+          - tab "Watched" [ref=e94] [cursor=pointer]:
+            - generic [ref=e96]: Watched
+          - tab "Videos" [ref=e103] [cursor=pointer]:
+            - generic [ref=e105]: Videos
+          - tab "Recently uploaded" [ref=e112] [cursor=pointer]:
+            - generic [ref=e114]: Recently uploaded
+          - tab "Live" [ref=e121] [cursor=pointer]:
+            - generic [ref=e123]: Live
+        - generic [ref=e128]:
+          - button "Search filters" [ref=e130] [cursor=pointer]:
+            - generic [ref=e131]: Filters
+          - tooltip "tooltip"
+      - generic [ref=e142]:
+        - generic [ref=e144]:
+          - link [ref=e146] [cursor=pointer]:
+            - /url: /watch?v=5xE5z5rN6nw&list=RD5xE5z5rN6nw&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+          - generic [ref=e148] [cursor=pointer]:
+            - generic [ref=e149]:
+              - heading "Sia - Never Give Up (Lyrics) 3 minutes, 42 seconds" [level=3] [ref=e151]:
+                - link "Sia - Never Give Up (Lyrics) 3 minutes, 42 seconds" [ref=e152]:
+                  - /url: /watch?v=5xE5z5rN6nw&list=RD5xE5z5rN6nw&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+                  - text: Sia - Never Give Up (Lyrics)
+              - generic [ref=e155]:
+                - generic [ref=e156]: 4.9M
+                - generic [ref=e157]: •2y ago
+            - generic [ref=e158]:
+              - link "Go to channel 7clouds" [ref=e159]:
+                - /url: /@7clouds
+              - generic [ref=e161]:
+                - link "7clouds" [ref=e165]:
+                  - /url: /@7clouds
+                - img "Verified" [ref=e170]
+            - generic [ref=e172]:
+              - generic [ref=e173]: "Follow the official 7clouds playlist on Spotify : http://spoti.fi/2SJsUcZ Sia - Never Give Up (Lyrics) ⏬ Download / Stream: ..."
+              - tooltip "tooltip"
+        - generic [ref=e175]:
+          - link [ref=e177] [cursor=pointer]:
+            - /url: /watch?v=_70Q-Xj3rEo&list=RD_70Q-Xj3rEo&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+          - generic [ref=e179] [cursor=pointer]:
+            - generic [ref=e180]:
+              - heading "NEFFEX - Never Give Up ☝️ [Copyright Free] No.27 4 minutes, 12 seconds" [level=3] [ref=e182]:
+                - link "NEFFEX - Never Give Up ☝️ [Copyright Free] No.27 4 minutes, 12 seconds" [ref=e183]:
+                  - /url: /watch?v=_70Q-Xj3rEo&list=RD_70Q-Xj3rEo&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+                  - text: NEFFEX - Never Give Up ☝️ [Copyright Free] No.27
+              - generic [ref=e186]:
+                - generic [ref=e187]: 85M
+                - generic [ref=e188]: •8y ago
+            - generic [ref=e189]:
+              - link "Go to channel NEFFEX" [ref=e190]:
+                - /url: /channel/UCBefBxNTPoNCQBU_Lta6Nvg
+              - generic [ref=e192]:
+                - link "NEFFEX" [ref=e196]:
+                  - /url: /channel/UCBefBxNTPoNCQBU_Lta6Nvg
+                - img "Official Artist Channel" [ref=e201]
+            - generic [ref=e203]:
+              - text: "Wanna learn how to create music just like this? I can teach you just click here: https://tinyurl.com/Fulltime-Hitmaker Listen to ..."
+              - tooltip "tooltip"
+            - img "Closed captions" [ref=e208]:
+              - generic [ref=e209]: CC
+        - generic [ref=e211]:
+          - link [ref=e213] [cursor=pointer]:
+            - /url: /watch?v=h6Ol3eprKiw&list=RDh6Ol3eprKiw&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+          - generic [ref=e215] [cursor=pointer]:
+            - generic [ref=e216]:
+              - heading "Sia - Never Give Up (from the Lion Soundtrack) [Lyric Video] 3 minutes, 43 seconds" [level=3] [ref=e218]:
+                - link "Sia - Never Give Up (from the Lion Soundtrack) [Lyric Video] 3 minutes, 43 seconds" [ref=e219]:
+                  - /url: /watch?v=h6Ol3eprKiw&list=RDh6Ol3eprKiw&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+                  - text: Sia - Never Give Up (from the Lion Soundtrack) [Lyric Video]
+              - generic [ref=e222]:
+                - generic [ref=e223]: 186M
+                - generic [ref=e224]: •9y ago
+            - generic [ref=e225]:
+              - link "Go to channel Sia" [ref=e226]:
+                - /url: /channel/UCN9HPn2fq-NL8M5_kp4RWZQ
+              - generic [ref=e228]:
+                - link "Sia" [ref=e232]:
+                  - /url: /channel/UCN9HPn2fq-NL8M5_kp4RWZQ
+                - img "Official Artist Channel" [ref=e237]
+            - generic [ref=e239]:
+              - generic [ref=e240]: "Sia's lyric video for \"Never Give Up\" from the movie LION, produced by Greg Kurstin. Download & stream the song now: ..."
+              - tooltip "tooltip"
+            - img "Closed captions" [ref=e245]:
+              - generic [ref=e246]: CC
+        - generic [ref=e248]:
+          - link [ref=e250] [cursor=pointer]:
+            - /url: /watch?v=rmQuHi7a8Q4&list=RDrmQuHi7a8Q4&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAdIHCQnDCgGHKiGM7w%3D%3D
+          - generic [ref=e252] [cursor=pointer]:
+            - generic [ref=e253]:
+              - heading "La La La (Never Give It Up) 3 minutes, 19 seconds" [level=3] [ref=e255]:
+                - link "La La La (Never Give It Up) 3 minutes, 19 seconds" [ref=e256]:
+                  - /url: /watch?v=rmQuHi7a8Q4&list=RDrmQuHi7a8Q4&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAdIHCQnDCgGHKiGM7w%3D%3D
+                  - text: La La La (Never Give It Up)
+              - generic [ref=e260]: 1.5M
+            - generic [ref=e261]:
+              - link "Go to channel September - Topic" [ref=e262]:
+                - /url: /channel/UCNbeSO_1sD7YwBbfmLMGcgQ
+              - generic [ref=e264]:
+                - link "September Official" [ref=e268]:
+                  - /url: /channel/UCNbeSO_1sD7YwBbfmLMGcgQ
+                - img "Official Artist Channel" [ref=e273]
+            - generic [ref=e275]:
+              - generic [ref=e276]: Provided to YouTube by Universal Music Group La La La (Never Give It Up) · September September ℗ 2003 Von Der Burg Musik ...
+              - tooltip "tooltip"
+        - generic [ref=e278]:
+          - link [ref=e280] [cursor=pointer]:
+            - /url: /watch?v=FgL-CVKXujU&list=RDFgL-CVKXujU&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+          - generic [ref=e282] [cursor=pointer]:
+            - generic [ref=e283]:
+              - heading "never give up 1 hour" [level=3] [ref=e285]:
+                - link "never give up 1 hour" [ref=e286]:
+                  - /url: /watch?v=FgL-CVKXujU&list=RDFgL-CVKXujU&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+                  - text: never give up
+              - generic [ref=e289]:
+                - generic [ref=e290]: 944K
+                - generic [ref=e291]: •1y ago
+            - generic [ref=e292]:
+              - link "Go to channel Eternal Warriors" [ref=e293]:
+                - /url: /@Eternal_Warriors
+              - link "Eternal Warriors" [ref=e299]:
+                - /url: /@Eternal_Warriors
+            - generic [ref=e300]:
+              - text: A failure is not always a mistake. It may simply be the best one can do under the circumstances. The real mistake is to stop trying.
+              - tooltip "tooltip"
+        - generic [ref=e302]:
+          - link [ref=e304] [cursor=pointer]:
+            - /url: /@hungvnv9391
+          - generic [ref=e307]:
+            - link "Nevergiveup @hungvnv9391•104K subscribers Dạ xin chào mọi người ạ, cảm ơn mọi người rất nhiều vì đã xem video của mình ạ. Chúc mọi người một ngày mới tốt lành! *Video ..." [ref=e308] [cursor=pointer]:
+              - /url: /@hungvnv9391
+              - generic [ref=e309]:
+                - generic [ref=e313]: Nevergiveup
+                - generic [ref=e314]: "@hungvnv9391•104K subscribers"
+                - generic [ref=e315]: Dạ xin chào mọi người ạ, cảm ơn mọi người rất nhiều vì đã xem video của mình ạ. Chúc mọi người một ngày mới tốt lành! *Video ...
+            - link "Subscribe" [ref=e320] [cursor=pointer]:
+              - /url: https://accounts.google.com/ServiceLogin?service=youtube&uilel=3&passive=true&continue=https%3A%2F%2Fwww.youtube.com%2Fsignin%3Faction_handle_signin%3Dtrue%26app%3Ddesktop%26hl%3Den%26next%3D%252Fresults%253Fsearch_query%253Dnever%252Bgive%252Bup%26continue_action%3DQUFFLUhqbFdyZXR6NWdQcFRybTRZMUpmM05oSjI0cWZkQXxBQ3Jtc0ttcEJuUWQxLThxR0Y5SEQ4NUV3ekZua2phN0tWWFBpYjVCcW0zUE5fSDFXZFp4ZTJ5WlVYRlFCUk9veG96em92OG95U0FHQmdCeEV0TDQ4UldNRmpuSWtwRXk3RjAxeWhrSzkwZElnR1d4ZEljczR5cl9fVEpnd0dyWDJMdGFrbWJHQkxSZDV6Rm03VjVUZlFWNERQUTFDU3JieDExTHNfUTJFUHh5b3pwWW1uT2VrbzhDdkJVZFhjdC1aM3EtelVNU19oREc&hl=en
+              - generic [ref=e321]: Subscribe
+        - generic [ref=e326]:
+          - link [ref=e328] [cursor=pointer]:
+            - /url: /watch?v=dRYV70xTPqw&list=RDdRYV70xTPqw&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+          - generic [ref=e330] [cursor=pointer]:
+            - generic [ref=e331]:
+              - heading "NEVER GIVE UP | G Rose x CCMK x. Dirp AT [OFFICIAL VIDEO] 3 minutes, 14 seconds" [level=3] [ref=e333]:
+                - link "NEVER GIVE UP | G Rose x CCMK x. Dirp AT [OFFICIAL VIDEO] 3 minutes, 14 seconds" [ref=e334]:
+                  - /url: /watch?v=dRYV70xTPqw&list=RDdRYV70xTPqw&start_radio=1&pp=ygUNbmV2ZXIgZ2l2ZSB1cKAHAQ%3D%3D
+                  - text: NEVER GIVE UP | G Rose x CCMK x. Dirp AT [OFFICIAL VIDEO]
+              - generic [ref=e337]:
+                - generic [ref=e338]: 488K
+                - generic [ref=e339]: •11mo ago
+            - generic [ref=e340]:
+              - link "Go to channel Chiến Thần - Mighty Guardian" [ref=e341]:
+                - /url: /@chienthan-mightyguardian8051
+              - generic [ref=e342]:
+                - link "Chiến Thần - Mighty Guardian" [ref=e346]:
+                  - /url: /@chienthan-mightyguardian8051
+                - img "Verified" [ref=e351]
+            - generic [ref=e353]:
+              - generic [ref=e354]: "NEVER GIVE UP – CHIẾN THẦN LẠC HỒNG ENDING MUSIC Listen to 'NEVER GIVE UP' now: ..."
+              - tooltip "tooltip"
+            - img "4K" [ref=e359]:
+              - generic [ref=e360]: 4K
